@@ -2,7 +2,7 @@
 
 <h2>Let's connect!</h2>
 
-<a href="www.linkedin.com/in/sayan-ghosh-91465b21a"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sayan-ghosh-91465b21a/"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/SayanGhosh2403"><img height="40" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://discord.com/channels/720788516837261322/735505720048615454"><img height="40" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="sayanghosh2403@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

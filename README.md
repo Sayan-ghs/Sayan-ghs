@@ -1,81 +1,123 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sayan%20Ghosh&fontSize=90)
+<div align="center">
 
-<h3 align="center">Computer Science Engineer | Builder | Blockchain & Systems Enthusiast</h3>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sayan%20Ghosh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Blockchain%20%26%20Systems%20Enthusiast&descAlignY=60&descSize=16&descColor=a0a0ff" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C86FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+systems+that+matter.;Blockchain+%26+Web3+Developer.;Open+Source+Contributor.;Backend+%26+Systems+Engineer." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/sayan-ghosh-91465b21a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/SayanGhosh2403">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:sayanghosh2403@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/720788516837261322/735505720048615454">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sayanghosh2403&label=Profile+Views&color=7C86FF&style=flat-square" />
+
+</div>
 
 ---
 
-## **Connect With Me**
+## `> whoami`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sayan-ghosh-91465b21a/"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/SayanGhosh2403"><img height="40" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://discord.com/channels/720788516837261322/735505720048615454"><img height="40" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:sayanghosh2403@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+```ts
+const sayan = {
+  role      : "Computer Science Undergraduate",
+  building  : "Code Social Community",
+  focus     : ["Backend Engineering", "Blockchain & Web3", "Systems Design"],
+  learning  : ["DSA", "Smart Contracts", "System Design", "Full-Stack Dev"],
+  goal      : "Ship real products. Deepen CS fundamentals. Contribute to open source.",
+  available : true,
+};
+```
+
+---
+
+## `> tech --stack`
+
+### ⬡ Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,solidity,rust,c&theme=dark" />
+</p>
+
+### ⬡ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+</p>
+
+### ⬡ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,redis,postgres&theme=dark" />
+</p>
+
+### ⬡ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## **About Me**
+## `> git stats --user sayanghosh2403`
 
-I'm **Sayan Ghosh**, a Computer Science undergraduate passionate about building systems, products, and communities. My focus spans development, blockchain technology, backend engineering, and creating meaningful experiences through code. I'm driven by the challenge of solving complex problems and contributing to the open-source ecosystem.
+<div align="center">
 
-**Building:** Code Social Community  
-**Interests:** Development · Blockchain & Web3 · Systems & Backend · Community Building
+<a href="https://github.com/sayanghosh2403">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayanghosh2403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C86FF&icon_color=7C86FF&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanghosh2403&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C86FF&text_color=c9d1d9&langs_count=8" />
+</a>
 
----
+<br/>
 
-## **Tech Stack & Skills**
+<a href="https://github.com/sayanghosh2403">
+  <img src="https://streak-stats.demolab.com?user=sayanghosh2403&theme=tokyonight&hide_border=true&background=0d1117&ring=7C86FF&fire=7C86FF&currStreakLabel=7C86FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" />
+</a>
 
-### **Programming Languages**
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="solidity" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" height="45" width="45"/>
-</p>
-
-### **Frontend Development**
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="45" width="45"/>
-</p>
-
-### **Backend & Databases**
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="sql" height="45" width="45"/>
-</p>
-
-### **Tools & Platforms**
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="45" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="45" width="45"/>
-</p>
+</div>
 
 ---
 
-## **Currently Learning & Exploring**
+## `> git log --graph`
 
-→ Data Structures & Algorithms  
-→ System Design Fundamentals  
-→ Blockchain Smart Contracts  
-→ Full-Stack Development  
-→ Open-Source Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanghosh2403&theme=tokyo-night&bg_color=0d1117&color=7C86FF&line=7C86FF&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
 
 ---
 
-## **What I'm Working Towards**
+## `> roadmap --current`
 
-Building real-world products that solve problems. Deepening my understanding of computer science fundamentals, blockchain technology, and decentralized systems. Contributing meaningfully to open source. Growing as an engineer who ships.
+```
+[■■■■■■■□□□]  Data Structures & Algorithms
+[■■■■■□□□□□]  System Design Fundamentals
+[■■■■■■□□□□]  Blockchain Smart Contracts (Solidity + Rust)
+[■■■■■■■□□□]  Full-Stack Development
+[■■■□□□□□□□]  Open-Source Contributions
+```
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sayanghosh2403&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+</div>
